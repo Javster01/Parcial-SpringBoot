@@ -1,6 +1,6 @@
-# Proyecto Electiva
+# Parcial
 
-Este es un proyecto para gestionar un sistema de ventas en una plataforma de comercio electrónico. El sistema permite gestionar clientes, productos, ventas y detalles de venta utilizando **Spring Boot** y una base de datos **PostgreSQL**.
+Este es un parcial para gestionar un sistema de ventas en una plataforma de comercio electrónico. El sistema permite gestionar clientes, productos, ventas y detalles de venta utilizando **Spring Boot** y una base de datos **PostgreSQL**.
 
 ## Tecnologías utilizadas
 
