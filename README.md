@@ -241,8 +241,6 @@ Desde allí podrás ver todos los endpoints disponibles y probar la API directam
     ]
     ```
 
-## Estructura del Proyecto
 
-La estructura básica del proyecto es la siguiente:
 
 
